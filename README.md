@@ -14,6 +14,7 @@ dations to them about new articles you think they will like.
  - Exploratory Data Analysis
  - Rank Based Recommendations
  - User-User Based Collaborative Filtering
+ - Matrix Factorization
 
 ## Licensing, Authors, Acknowledgements
 This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
